@@ -210,8 +210,12 @@ margin-bottom: 10px;
     text-decoration: none;
 }
 
-.card1{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 3rem;
+
+
+@media (min-width: 768px) {
+    .card1{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 3rem;
+    }
 }
