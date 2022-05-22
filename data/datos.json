@@ -1,36 +1,13 @@
 [{
     "titulo": "Repuesto de frenos tipo disco",
     "descripcion": "Marca gatonegro",
-    "img": "/img/46558739-motoracer-en-la-moto-silueta-emblema-logo-ilustración-vectorial.webp",
+    "img": "/img/maxresdefault.jpg",
     "img2": "/img/estrellas.png",
     "precio": "$200.000",
     "descuento": "$15.000"
 },
 {
-    "titulo": "Repuesto de frenos tipo disco",
-    "descipcion": "Marca gatonegro",
-    "img": "/img/frenos-moto-discos-1000x640.jpg",
-    "img2": "/img/estrellas.png",
-    "precio": "$200.000",
-    "descuento": "$15.000"
-},
-{
-    "titulo": "Repuesto de frenos tipo disco",
-    "descipcion": "Marca gatonegro",
-    "img": "/img/Piezas-de-repuesto-para-Motocross-palanca-de-cambio-de-marchas-de-aluminio-para-Kayo-Apollo-Bse.jpg",
-    "img2": "/img/estrellas.png",
-    "precio": "$200.000",
-    "descuento": "$15.000"
-},{
-    "titulo": "Repuesto de frenos tipo disco",
-    "descripcion": "Marca gatonegro",
-    "img": "/img/46558739-motoracer-en-la-moto-silueta-emblema-logo-ilustración-vectorial.webp",
-    "img2": "/img/estrellas.png",
-    "precio": "$200.000",
-    "descuento": "$15.000"
-},
-{
-    "titulo": "Repuesto de frenos tipo disco",
+    "titulo": "Maniguetas",
     "descipcion": "Marca gatonegro",
     "img": "/img/frenos-moto-discos-1000x640.jpg",
     "img2": "/img/estrellas.png",
@@ -48,13 +25,37 @@
 {
     "titulo": "Repuesto de frenos tipo disco",
     "descripcion": "Marca gatonegro",
-    "img": "/img/46558739-motoracer-en-la-moto-silueta-emblema-logo-ilustración-vectorial.webp",
+    "img": "/img/maxresdefault.jpg",
+    "img2": "/img/estrellas.png",
+    "precio": "$200.000",
+    "descuento": "$15.000"
+},
+{
+    "titulo": "Maniguetas",
+    "descipcion": "Marca gatonegro",
+    "img": "/img/frenos-moto-discos-1000x640.jpg",
     "img2": "/img/estrellas.png",
     "precio": "$200.000",
     "descuento": "$15.000"
 },
 {
     "titulo": "Repuesto de frenos tipo disco",
+    "descipcion": "Marca gatonegro",
+    "img": "/img/Piezas-de-repuesto-para-Motocross-palanca-de-cambio-de-marchas-de-aluminio-para-Kayo-Apollo-Bse.jpg",
+    "img2": "/img/estrellas.png",
+    "precio": "$200.000",
+    "descuento": "$15.000"
+},
+{
+    "titulo": "Repuesto de frenos tipo disco",
+    "descripcion": "Marca gatonegro",
+    "img": "/img/maxresdefault.jpg",
+    "img2": "/img/estrellas.png",
+    "precio": "$200.000",
+    "descuento": "$15.000"
+},
+{
+    "titulo": "Maniguetas",
     "descipcion": "Marca gatonegro",
     "img": "/img/frenos-moto-discos-1000x640.jpg",
     "img2": "/img/estrellas.png",

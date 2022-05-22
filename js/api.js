@@ -17,20 +17,22 @@ async function renderCatalogo() {
     let users = await getCatalogo();
     let html = '';
     users.forEach(user => {
-        let htmlSegment = ` <img src="${user.img}" class="u-full-width">
-                            <div class="info-card">
-                                <h4>${user.nombre}</h2>
-                                <p>${user.descripcion}</p>
-                                <img src="${user.img2}">
-                                <p>${user.precio} ${user.descuento}</p>
-                                <a href="#" class="u-full-width button-primary button input agregar-carrito
-                                ">Agregar Al Carrito</a>
+        let htmlSegment = ` <div class="card">
+                                <img src="${user.img}" class="u-full-width">
+                                <div class="info-card">
+                                    <h4>${user.titulo}</h2>
+                                    <p>${user.descripcion}</p>
+                                    <img src="${user.img2}">
+                                    <p class="precio">${user.precio} <span>${user.descuento}</span></p>
+                                    <a href="#" class="u-full-width button-primary button input agregar-carrito
+                                    ">Agregar Al Carrito</a>
+                                </div>
                             </div>`;
 
         html += htmlSegment;
     });
 
-    let container = document.querySelector('.card');
+    let container = document.querySelector('.card1');
     container.innerHTML = html;
 }
 
